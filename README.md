@@ -1,1 +1,2 @@
-## Django projects \n a mess stack of tutorial and other stuff
+## Django projects 
+a mess stack of tutorial and other stuff
